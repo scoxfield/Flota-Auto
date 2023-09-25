@@ -1,0 +1,6 @@
+Audi RS3 4 1
+Audi RS8 4 0
+Dacia Logan 4 0
+0 0 0 0
+Vlad 1/1/1 2/2/2 2
+Mihai 5/5/5 7/7/7 1
